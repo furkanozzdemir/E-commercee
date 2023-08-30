@@ -1,0 +1,14 @@
+.product-btn-container {
+    display: flex;
+    justify-content: center; /* Butonu yatayda ortala */
+   /* İstenilen boşluk değeri */
+  }
+
+  .product-btn-container-btn{
+    min-width: 120px;
+    height: 40px;
+    border-radius: 9px;
+    background-color: #ffbe0b;
+    font-size: large;
+    cursor: pointer;
+  }

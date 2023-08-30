@@ -1,0 +1,43 @@
+
+.product-card{
+
+max-width:50%;
+display: flex;
+border: 1px solid black;
+
+
+
+
+
+}
+
+.featured-products-section{
+
+
+
+
+}
+.product-card img {
+
+max-width: 40%;
+  }
+  h2{
+     text-align: center;
+  }
+  .slider-wrapper{
+
+  margin: 0 auto;
+
+  }
+  .main-home-description{
+
+    display: flex;
+    flex-direction: column;
+
+    margin-left: 40px;
+    line-height: 30px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+
