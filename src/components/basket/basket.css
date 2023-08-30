@@ -43,3 +43,13 @@
 
   background-color: red;
 }
+
+
+
+h1 {
+  clear: both;
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap;
+  margin-top: 300px;
+}
